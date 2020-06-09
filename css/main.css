@@ -2479,7 +2479,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .pricing-table-item .plan-price .price-value {
-  font-size: 40px;
+  font-size: 35px;
   line-height: 76px;
   font-weight: 700;
   color: #333333;
@@ -2493,7 +2493,7 @@ nav#menu span.fa.fa-bars:hover {
 
 .pricing-table-item .plan-price .interval {
   line-height: 16px;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
 }
 
